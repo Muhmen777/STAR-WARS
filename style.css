@@ -1,0 +1,32 @@
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+background-color: black;    
+background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+
+.people
+{
+   
+   grid-template-columns: 9900%;
+    justify-self: start;
+    text-align: center;
+    background-color: rgb(255, 217, 0);
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 15px;
+    opacity: 0.3;
+    color: black;
+    width: 50%;
+    margin: 10px;
+    
+}
+
+h2{
+    font-size: 20px;
+}
